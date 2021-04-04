@@ -1,0 +1,28 @@
+{
+  "name": "@thaldrin/sourcefinder",
+  "version": "1.0.0",
+  "description": "Module to find e612 sources by their Static1 Link",
+  "main": "build/index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaldrin/sourcefinder.git"
+  },
+  "keywords": [
+    "yiff",
+    "furry",
+    "image",
+    "discord",
+    "bot",
+    "e621",
+    "e926"
+  ],
+  "author": "hokkqi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
