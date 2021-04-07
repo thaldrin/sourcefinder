@@ -18,7 +18,6 @@ export default class Sourcefinder {
         for (const Index in Links) {
             let ImageURL = Links[Index]
             let ImageHash = ImageURL.split(consts.md5)[2]
-            console.log(this.useragent)
             let { data } = await axios.get(`${consts.search_url}${ImageHash}`,
                 {
                     headers: {
