@@ -6,7 +6,7 @@ export default {
         "igm"),
     search_url: "https://e621.net/posts.json?md5=",
     enine: 'https://e926.net/posts/',
-    esix: "https://e926.net/posts/",
+    esix: "https://e621.net/posts/",
     version: pkg.version,
     useragent: `sourcefinder/v${pkg.version} (t8.pm/sourcefinder);`
 

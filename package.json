@@ -1,7 +1,7 @@
 {
   "name": "@thaldrin/sourcefinder",
-  "version": "1.0.0",
-  "description": "Module to find e612 sources by their Static1 Link",
+  "version": "1.0.3",
+  "description": "Module to find e621 sources by their Static1 Link",
   "main": "build/index.js",
   "types": "index.d.ts",
   "repository": {
